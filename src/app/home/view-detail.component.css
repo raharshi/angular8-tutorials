@@ -2,11 +2,18 @@ h2 {
     font-size: 1.5em;
     margin-top: 10;
   }
-  .home {
+  .view-detail {
     padding: 0;	
   }
-  .home  a{
+  button {
     margin-top: 10px;
+    background-color: #eee;
+    border: none;
+    padding: 3px 10px;
+    cursor: pointer; cursor: hand;
+  }
+  a {
+    margin-top: 15px;
     display: inline-block;
     background-color: #eee;
     text-decoration: none;

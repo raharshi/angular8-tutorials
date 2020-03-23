@@ -4,3 +4,5 @@ ng g c home --style=scss
 
 /* to create component with routing file */
 ng g m home --routing
+
+ng generate module app-routing --flat --module=app
