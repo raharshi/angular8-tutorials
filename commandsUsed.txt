@@ -1,0 +1,6 @@
+/* to create component with scss as default */
+
+ng g c home --style=scss 
+
+/* to create component with routing file */
+ng g m home --routing
